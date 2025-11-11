@@ -1,0 +1,22 @@
+# Object files
+*.o
+
+# Executables
+*.out
+a.out
+
+# Debug information
+*.dSYM/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*~
+
+# Log files
+*.log
+
+# Mac
+.DS_Store
+
+main
